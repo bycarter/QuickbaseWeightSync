@@ -1,0 +1,21 @@
+{
+  "name": "work_tools",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib",
+    "client": "client",
+    "dist": "dist",
+    "test": "test"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bycarter",
+  "license": "ISC"
+}
