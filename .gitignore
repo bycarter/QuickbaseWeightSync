@@ -1,8 +1,4 @@
 node_modules
-lib/sandbox.js
-
-# private auth data
-config.js
 
 # private env
 .env
