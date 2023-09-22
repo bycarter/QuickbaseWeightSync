@@ -2,3 +2,6 @@ node_modules
 
 # private env
 .env
+
+# notes
+notes.md
