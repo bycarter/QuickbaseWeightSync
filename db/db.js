@@ -16,7 +16,7 @@ async function end() {
 }
 async function query(text, params) {
   let res = await client.query(text, params);
-  return res.rows
+  return res.rows;
 }
 
 module.exports = {
