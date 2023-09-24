@@ -1,6 +1,10 @@
-node_modules
-sb2.js
-# private env
+# dependencies
+node_modules/
+
+# sandbox files
+lib/sb2.js
+
+# env files
 .env
 
 # notes
