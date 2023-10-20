@@ -4,7 +4,7 @@ A simple terminal app to receive and validate scale input into a database, and t
 ### Setup
 1. Be sure the following are installed locally:
    - NodeJS
-   - PostgreSQL
+   - PostgresSQL
 
 2. Then create the database and table listed below.
 3. Finally, create an `.env` and fill in appropriate values.
