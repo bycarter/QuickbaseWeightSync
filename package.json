@@ -2,25 +2,23 @@
   "name": "work_tools",
   "version": "0.1.0",
   "description": "",
-  "main": "main.js",
+  "main": "lib/main.js",
   "directories": {
+    "assets": "assets",
+    "db": "db",
     "lib": "lib",
     "client": "client",
     "dist": "dist",
     "test": "test"
   },
   "dependencies": {
-    "asciichart": "^1.5.25",
-    "build": "^0.1.4",
     "dotenv": "^16.3.1",
     "json-templates": "^5.0.0",
-    "node-hid": "^2.1.2",
     "pg": "^8.11.3",
-    "readline-sync": "^1.4.10",
-    "usb": "^2.10.0"
+    "readline-sync": "^1.4.10"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'What is my purpose?'"
   },
   "author": "bycarter",
   "license": "ISC"
