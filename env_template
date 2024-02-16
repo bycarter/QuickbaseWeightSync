@@ -1,0 +1,23 @@
+# PG Params
+PGUSER='based'
+PGPASSWORD=''
+PGHOST='localhost'
+PGPORT=5432
+PGDATABASE='carts'
+
+# Quickbase Auth Params
+QB_PAT='QB-USER-TOKEN b5d2ud_p8zg_0_c28jrz4czt5rbimysrrecvnhih'
+QB_HOSTNAME='jushico.quickbase.com'
+QB_USER_AGENT=dc-general
+
+# Quickbase variables
+#QB_TABLE_ID=bsrtz6zjg
+#QB_PO_ID=20039
+
+# KEY MMR: 0.9 == 7, 0.5 == 6, FLEX 0.5 == 16
+#QB_MMR=7
+
+# KEY PROD ID: 0.9 == 272, 0.5 == 275, FLEX 0.5 == 350
+#QB_PROD_ID=272
+#QB_NUM_CARTS=1100
+#CART_SIZE='0.9'
