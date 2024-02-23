@@ -1,14 +1,10 @@
 {
   "name": "work_tools",
   "version": "0.1.0",
-  "description": "",
+  "description": "A simple terminal app to receive and validate scale input into a database, and then push the data into a Quickbase app.",
   "main": "lib/main.js",
   "directories": {
-    "assets": "assets",
-    "db": "db",
     "lib": "lib",
-    "client": "client",
-    "dist": "dist",
     "test": "test"
   },
   "dependencies": {
@@ -21,5 +17,7 @@
     "test": "echo 'What is my purpose?'"
   },
   "author": "bycarter",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "keywords": []
 }
