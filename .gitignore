@@ -10,4 +10,7 @@ lib/sb2.js
 # notes
 notes.md
 
+# misc
+.idea/
+
 # package-lock
